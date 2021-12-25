@@ -1,0 +1,26 @@
+.main-container {
+  border :lightgray;
+  border : 1px;
+  border-style: solid;
+  border-radius: 4px;
+}
+
+
+a {
+  font-size: 0.8rem;
+  font-weight: bold;
+  background-color: #ced3da;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  text-align: center;
+  border-radius: 5px;
+  color: black;
+  text-decoration: none;
+}
+
+
+.i{
+  width: 1.5rem;
+}
